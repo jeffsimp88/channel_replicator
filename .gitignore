@@ -3,6 +3,7 @@ playlist.m3u
 text.txt
 test.py
 *.pyc
+*.png
 
 # Directories
 Bumpers/
